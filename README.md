@@ -15,20 +15,6 @@ No frameworks. No libraries. Just clean code.
 - Fully responsive (mobile + desktop)
 - Vercel-ready for instant deployment
 
-## 📁 Project Structure
-
-```
-portfolio/
-├── index.html
-├── vercel.json
-├── css/
-│   └── style.css
-├── js/
-│   └── script.js
-└── assets/
-    └── images/
-        └── profile.jpg   ← Replace with your photo
-```
 
 ## 🖼️ Adding Your Profile Photo
 
