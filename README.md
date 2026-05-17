@@ -1,4 +1,4 @@
-# Alex Morgan – Personal Portfolio
+# Waheed Rashid – Personal Portfolio
 
 A modern, responsive personal portfolio website built with pure HTML, CSS & JavaScript.  
 No frameworks. No libraries. Just clean code.
