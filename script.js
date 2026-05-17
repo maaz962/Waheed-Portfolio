@@ -1,5 +1,5 @@
 /* ================================================
-   Alex Morgan – Portfolio  |  script.js
+   Waheed Rashid – Portfolio  |  script.js
    Features:
      • Mobile navbar toggle
      • Navbar scroll style + active link tracking
